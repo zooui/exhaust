@@ -10,13 +10,17 @@ body {
 h1, h3 {
     color: #94a1d5; 
     margin-bottom: 0.2em;
+    font-size: 22pt;
 }
 h2 {
     color:#ffffff;
+    font-size: 24pt;
 }
 body {
     color: #94a1d5;
+    font-size: 20pt;
 }
+
 hr {
     color: #ffffff;
 }
@@ -66,6 +70,7 @@ body {
 
     li {
       margin-bottom: 0.7rem;
+      font-size: 16pt;
     }
 
     img {
